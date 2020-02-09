@@ -1,1 +1,1 @@
-Site teste com conhecimentos obtivos através do MDN web docs.
+Site teste aplicando conhecimentos obtidos através do MDN web docs.
